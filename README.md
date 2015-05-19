@@ -1,4 +1,4 @@
 First Android Master/Detail App
 ================================
 
-First Android master/detail application with custom data. Documentation is located at www.droidweardocs.com.
+First universal master/detail application for Android tablets and phones that incorporates custom data. Documentation is located at www.mobileappdocs.com.
